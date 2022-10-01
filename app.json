@@ -1,6 +1,6 @@
 {
-    "name": "项目名称",
-    "description": "项目名称",
+    "name": "nomfufu",
+    "description": "bnm",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
