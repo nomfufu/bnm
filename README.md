@@ -5,7 +5,7 @@
 
 1.将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)
+[Deploy](https://www.herokucdn.com/deploy/button.png)
 
 2.若出现`We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.`提示，则返回仓库，>`Setting`>`Repository name`修改仓库名。
 
